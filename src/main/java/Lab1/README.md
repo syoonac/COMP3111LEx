@@ -8,22 +8,6 @@ This project is part of Lab 1 for COMP3111, focused on setting up the developmen
 
 ---
 
-## Key Learning Outcomes
-
-* Successfully configured **IntelliJ IDEA** for Java development.
-* Established a link between a local project and a **GitHub repository**.
-* Practiced **committing and pushing** code changes to the remote repository.
-* Created and formatted a `README.md` file using **Markdown**.
-
----
-
-## Project Structure
-
-* **`src/main/java/Lab1`**: Contains the primary Java source code for the lab assignment.
-* **`pom.xml`**: The Maven project configuration file.
-* **`README.md`**: This file provides an overview and documentation for the project.
-
----
 
 ### IntelliJ Project Screenshot
 
